@@ -16,14 +16,7 @@ z-index: 10;
 
 
 
-
-
-
->
-
-
-ul
-{
+ul {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -33,8 +26,7 @@ ul
     list-style: none;
 }
 
-a
-{
+a {
     text-decoration: none;
     color: black;
      font-family: Margem,Source Sans Pro,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif;
@@ -44,27 +36,23 @@ a
     font-style: normal;
 }
 
-a:hover
-{
+a:hover {
     color: rgba(0, 0, 0, 0.50);
 }
 
-.logo
-{
+.logo {
 
 width: 20%;
 margin-left: 32px;
 }
 
-.logo img
-{
+.logo img {
     width: 100%;
     cursor: pointer;
 
 }
 
-.FaleConosco
-{
+.FaleConosco {
     width: 240px;
     height: 47px;
     border-radius: 20px;
@@ -82,13 +70,11 @@ margin-left: 32px;
 
 }
 
-.FaleConosco:hover
-{
+.FaleConosco:hover {
     background-color: #FB1609;
 }
 
-.redesSociais
-{
+.redesSociais {
     width: 35px;
     height: 35px;
     border-radius: 50px;
@@ -108,8 +94,7 @@ margin-left: 32px;
 
 }
 
-.redesSociais:hover
-{
+.redesSociais:hover {
     background-color: #FB1609;
 }
 

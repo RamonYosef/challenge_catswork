@@ -11,8 +11,7 @@ display: flex;
 justify-content: center;
 align-items: center;
 
-
-> .box_img {
+.box_img {
     width: 1700px;
     height: 600px;
 
@@ -24,8 +23,7 @@ align-items: center;
 }
 
 
-.img_1
-{
+.img_1 {
     width: 600px;
     height: 100%;
     background-image: url(https://api.catswork.com.br/uploads/1_21565709b2.png);
@@ -39,14 +37,12 @@ align-items: center;
    
 }
 
-.img_1:hover
-{
+.img_1:hover {
     background-size: 120%;
 }
 
 
-.img_2
-{
+.img_2 {
     width: 600px;
     height: 100%;
     background-image: url(https://api.catswork.com.br/uploads/3_89fde098ba.png);
@@ -61,8 +57,18 @@ align-items: center;
     background-size: 120%;
 }
 
-.txt
-{
+.titulo {
+    color: var(--white);
+    font-family: Margem,Source Sans Pro,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif;
+    font-size: 20px;
+    transition: all 0.5s;
+    font-weight: 900;
+    font-style: normal;
+    width: 60%;
+    text-align: start;
+}
+
+.txt {
     width: 600px;
     height: 100%;
     background-color: var(--boxLocal);
@@ -75,8 +81,7 @@ align-items: center;
 
 }
 
-.txt p 
-{
+.txt p {
     color: var(--white);
     font-family: Margem,Source Sans Pro,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif;
     font-size: 20px;

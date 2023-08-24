@@ -12,10 +12,7 @@ align-items: center;
 
 
 
->
-
-ul
-{
+ul {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -27,8 +24,7 @@ ul
 
 }
 
-a
-{
+a {
     text-decoration: none;
     color: var(--white);
      font-family: Margem,Source Sans Pro,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif;
@@ -39,14 +35,12 @@ a
     transition: all 0.5s;
 }
 
-a:hover
-{
+a:hover {
     border-bottom: 3px solid white;
     padding-left: 8px;
 }
 
-.inf
-{
+.inf {
     display: flex;
     justify-content: center;
     align-items: start;
@@ -55,8 +49,7 @@ a:hover
 }
 
 
-.txt
-{
+.txt {
     color: var(--buttons);
      font-family: Margem,Source Sans Pro,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif;
     font-size: 30px;
@@ -65,8 +58,7 @@ a:hover
 
 }
 
-.email
-{
+.email {
     color: var(--white);
      font-family: Margem,Source Sans Pro,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif;
     font-size: 30px;
@@ -77,13 +69,11 @@ a:hover
 
 }
 
-.email:hover
-{
+.email:hover {
     border-bottom: 3px solid white;   
 }
 
-.telefone
-{
+.telefone {
     color: var(--white);
      font-family: Margem,Source Sans Pro,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif;
     font-size: 24px;
@@ -94,14 +84,13 @@ a:hover
   
 }
 
-.telefone:hover
-{
+.telefone:hover {
     border-bottom: 3px solid white;  
 }
 
-.ul_icons
-{
+.ul_icons {
     display: flex;
+    flex-direction: row;
     list-style: none;
     justify-content: center;
     align-items: start;
@@ -111,8 +100,7 @@ a:hover
 
 }
 
-button
-{
+button {
     width: 35px;
     height: 35px;
     border-radius: 50px;
@@ -132,8 +120,7 @@ button
 }
 
 
-.detalhe
-{
+.detalhe {
     padding-top: 160px;
 }
 

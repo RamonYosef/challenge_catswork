@@ -6,7 +6,7 @@ export const Localização: React.FC = () => {
       <div className="box_img">
         <div className="img_1"></div>
         <div className="txt">
-            <p> LOCALIZAÇÃO </p>
+            <p className="titulo"> LOCALIZAÇÃO </p>
           <p>
             Nosso espaço está localizado ao lado do principal
             Shopping de Fortaleza. A moderna torre empresarial Iguatemi é

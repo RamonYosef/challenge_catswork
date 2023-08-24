@@ -12,10 +12,8 @@ flex-direction: column;
 gap: 32px;
 
 
->
 
-.titulo
-{
+.titulo {
     color: var(--white);
     font-family: Margem,Source Sans Pro,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif;
     font-size: 30px;
@@ -28,8 +26,7 @@ gap: 32px;
 }
 
 
-ul
-{
+ul {
     display: flex;
     list-style: none;
     justify-content: center;
@@ -40,8 +37,7 @@ ul
 }
 
 
-.box
-{
+.box {
     padding: 32px;
 
     width: 350px;
@@ -60,8 +56,7 @@ ul
 }
 
 
-.titulo_txt
-{
+.titulo_txt {
     color: var(--white);
     font-family: Margem,Source Sans Pro,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif;
     font-size: 20px;
@@ -71,8 +66,7 @@ ul
 
 }
 
-.txt
-{
+.txt {
 
     color: var(--white);
     font-family: Margem,Source Sans Pro,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif;

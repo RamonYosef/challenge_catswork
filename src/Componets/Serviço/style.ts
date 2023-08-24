@@ -1,7 +1,6 @@
 import { styled } from "styled-components";
 
-interface prop
-{
+interface prop {
     background?:any
 }
 
@@ -19,10 +18,7 @@ gap: 64px;
 z-index: 0;
 
 
-
->
-.detalhes_1
-{
+.detalhes_1 {
     position: absolute;
     top: 10%;
     left: -1%;
@@ -41,13 +37,11 @@ z-index: 0;
 
 }
 
-.detalhes_1 img
-{
+.detalhes_1 img {
     width: 100%;
 }
 
-.detalhes_2
-{
+.detalhes_2 {
     position: absolute;
     top: 10%;
     left: 86%;
@@ -73,8 +67,7 @@ z-index: 0;
 }
 
 
-.negocio
-{
+.negocio {
     color: black;
      font-family: Margem,Source Sans Pro,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif;
     font-size: 30px;
@@ -85,8 +78,7 @@ z-index: 0;
     text-align: center;
     margin-bottom: 64px;
 }
-ul
-{
+ul {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -122,11 +114,7 @@ padding: 20px;
 padding-top: 110px;
 
 
-
-
->
-a
-{
+a {
     color: var(--white);
     font-family: Margem,Source Sans Pro,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif;
     font-weight: 500;
@@ -137,8 +125,7 @@ a
 
 }
 
-.txt
-{
+.txt {
     color: var(--white);
     font-family: Margem,Source Sans Pro,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif;
     font-weight: 700;
@@ -156,8 +143,7 @@ a
 }
 
 
-.icons
-{
+.icons {
     width: 130px;
     height: 130px;
     padding: 16px;
@@ -175,8 +161,7 @@ a
     
 }
 
-.icons img
-{
+.icons img {
     width: 70%;
 
 }

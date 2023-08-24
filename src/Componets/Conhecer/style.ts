@@ -9,10 +9,7 @@ justify-content: center;
 align-items: center;
 
 
->
-
-.Conhecer
-{
+.Conhecer {
     width: 1700px;
     height: 400px;
 
@@ -28,8 +25,7 @@ align-items: center;
 }
 
 
-.box
-{
+.box {
     background-color: var(--secundary);
     width: 500px;
     padding: 28px;
@@ -43,13 +39,11 @@ align-items: center;
     
 }
 
-img
-{
+img {
     width: 80px;
 }
 
-.txt
-{
+.txt {
     color: var(--white);
     font-family: Margem,Source Sans Pro,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif;
     font-size: 30px;
@@ -58,8 +52,7 @@ img
     font-style: normal;
 }
 
-button
-{
+button {
     width: 240px;
     height: 47px;
     border-radius: 20px;
@@ -75,8 +68,7 @@ button
     transition: all 0.5s;
 }
 
-button:hover
-{
+button:hover {
     background-color: #FB1609;
 }
 

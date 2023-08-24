@@ -12,10 +12,9 @@ align-items: center;
 
 
 
->
 
-.pdf
-{
+
+.pdf {
     position: absolute;
     top: 53%;
     left: 20%;
@@ -26,8 +25,7 @@ align-items: center;
     
 }
 
-.detalhe_1
-{
+.detalhe_1 {
 
     position: absolute;
     top: 30%;
@@ -36,8 +34,7 @@ align-items: center;
 
 }
 
-.form
-{
+.form {
    
     width: 800px;
     margin-right: 24px;
@@ -49,8 +46,7 @@ align-items: center;
     flex-direction: column;
 }
 
-.titulo
-{
+.titulo {
     color: var(--white);
     font-family: Margem,Source Sans Pro,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif;
     font-size: 30px;
@@ -59,8 +55,7 @@ align-items: center;
     font-style: normal;
 }
 
-.txt
-{
+.txt {
     color: var(--white);
     font-family: Margem,Source Sans Pro,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif;
     font-size: 20px;
@@ -69,8 +64,7 @@ align-items: center;
     font-style: normal;
 }
 
-ul
-{
+ul {
     text-decoration: none;
     list-style: none;
 
@@ -84,8 +78,7 @@ ul
    
 }
 
-input
-{
+input {
     width: 700px;
     height: 50px;
 
@@ -103,8 +96,7 @@ input
 
 }
 
-button
-{
+button {
     width: 200px;
     height: 40px;
     border-radius: 20px;

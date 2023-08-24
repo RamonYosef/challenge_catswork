@@ -16,10 +16,7 @@ flex-direction: column;
 gap: 24px;
 
 
->
-
-.diferencias
-{
+.diferencias {
     width: 1700px;
     height: 1000px;
 
@@ -31,8 +28,7 @@ gap: 24px;
 }
 
 
-h1
-{
+h1 {
     color: black;
     font-family: Margem,Source Sans Pro,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif;
     font-size: 30px;
@@ -45,7 +41,7 @@ h1
 
 }
 
-button{
+button {
 
     width: 200px;
     height: 47px;
@@ -66,8 +62,7 @@ button{
 
 }
 
-button:hover
-{
+button:hover {
     background-color: #FB1609;
 }
 
@@ -88,10 +83,8 @@ gap: 16px;
 
 background-color: ${prop => prop.background? 'var(--diferenciaBlue)' : 'var(--diferenciaRed)'};
 
->
 
-.titulo
-{
+.titulo {
     color: black;
     font-family: Margem,Source Sans Pro,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif;
     font-size: 20px;
@@ -101,8 +94,7 @@ background-color: ${prop => prop.background? 'var(--diferenciaBlue)' : 'var(--di
 }
 
 
-.txt
-{
+.txt {
     color: black;
     font-family: Margem,Source Sans Pro,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif;
     font-size: 18px;

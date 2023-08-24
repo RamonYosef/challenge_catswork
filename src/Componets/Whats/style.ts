@@ -34,18 +34,15 @@ z-index: 10;
 
 
 
-&:hover
-{
+&:hover {
     background-color: #EAEAEB;
     width: 60px;
     height: 60px;
     background-size: auto;
 }
 
->
 
-img
-{
+img {
     width: 70%;
 }
 
